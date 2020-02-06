@@ -1,2 +1,2 @@
 # My Repository
-## Here you may finf interesting python notebooks related to my projects
+### Here you may find interesting python notebooks related to my projects
